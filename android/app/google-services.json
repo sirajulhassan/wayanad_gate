@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "600231051872",
+    "project_id": "wayanad-gates",
+    "storage_bucket": "wayanad-gates.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600231051872:android:4e916a6545eb89fe453905",
+        "android_client_info": {
+          "package_name": "com.example.wayanad_gate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtB8mzQ03gyvfduqCfNyPnMqqqdIIPtOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
